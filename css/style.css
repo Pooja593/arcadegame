@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+}
+.parent{
+  width: 650px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  margin:1% auto;
+}
+.child1{
+  text-align: center;
+  width: 50%;
+}
+.child2{
+  text-align: center;
+  width: 50%;
+}
+.child2 img{
+  width:7%;
+  height:auto;
+}
