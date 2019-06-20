@@ -1,5 +1,5 @@
 var score = 0;
-var collision = 0;
+let collision = 0;
 // Enemies our player must avoid
 var Enemy = function(x, y, speed) {
 	// Variables applied to each of our instances go here,
